@@ -5,7 +5,7 @@
 - 🔫 I’m currently working on **Cloud-Based Data Processing Pipelines**  
 - 🌱 I’m currently learning **Advanced AWS & Kubernetes**  
 - 💬 Ask me about **Cloud Computing, Data Science, and Web Development**  
-- 📧 Reach me at **anshika1411singh@gmail.com**  
+- 📧 Reach me at **ashnika0704@gmail.com**  
 - 🌍 Based in **Dehradun, Uttarakhand, India**  
 
 ### **💻 Tech Stack**  
@@ -39,4 +39,4 @@
 ### **🌍 Connect with Me**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/anhsika0704)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshika-singh-phonix1411/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshika1411singh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashnika0704@gmail.com)
