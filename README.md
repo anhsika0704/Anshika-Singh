@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anhsika0704/Anshika-Singh/main/Anshika-singh.png" alt="Anshika Singh Banner" style="max-width: 100%; height: auto;">
+</p>
 <h1 align="center">Hi there 👋, I'm Anshika Singh</h1>
 <h3 align="center">Cloud Computing | Data Science | Full-Stack Development Enthusiast 🚀</h3>
 
